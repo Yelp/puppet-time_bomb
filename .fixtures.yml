@@ -1,0 +1,4 @@
+fixtures:
+  symlinks:
+    time_bomb: "#{source_dir}"
+    stdlib: "#{source_dir}/../../vendor/modules/stdlib/"
